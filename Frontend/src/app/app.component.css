@@ -1,0 +1,10 @@
+.container-fluid a{
+    transition: .3s;
+    padding:10px 20px;
+    font-size:18px;color:
+    white;text-decoration: none;
+}
+
+.container-fluid a:hover{
+    color: rgb(255,255,255,0.7);
+}
